@@ -1,0 +1,14 @@
+{
+    "name": "dediksugiharto/press",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dedik Sugiharto",
+            "email": "dediksugiharto.com@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^5.0"
+    }
+}
